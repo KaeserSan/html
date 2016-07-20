@@ -1,0 +1,120 @@
+body {
+	width: 70%;
+	margin: 0 auto;
+	padding: 2px;
+}
+
+#container {
+	border-color: green;
+	border-style: solid;
+	border-right: 1px;
+	border-bottom:  10px;
+}
+header {
+	background-color: blue;
+	color: #FFF;
+}
+header h1 {
+	font-family: sans-serif;
+	font-weight: normal;
+}
+
+div section {
+	padding: 15px;
+	margin: 0;
+}
+section p {
+	padding: 15px;
+	font-family: sans-serif;
+}
+
+section {
+	padding: 15px;
+	display: block;
+}
+section h1{
+	/*padding: 15px;*/
+	font-family: monospace;
+	font-size: 2em;
+}
+section h2 {
+	font-family: sans-serif;
+}
+
+section h3 {
+	font-family: sans-serif;
+}
+
+section h4 {
+	font-family: sans-serif;
+}
+
+h1, p{
+	padding:0;
+	border: 0;
+	margin: 0;
+}
+
+footer {
+	clear: both;
+}
+
+div {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+nav ul li {
+	style: block;
+	background-color: #FF8B58;
+	display: inline-block;
+	margin-left: 10%;
+	border-bottom: 1px solid black;
+
+}
+
+.lateral {
+	float: left;
+	width: 15%;
+	background-color: cyan;
+	padding: 0;
+}
+
+.menuLateral {
+	background-color: #FF8B58;
+	text-align: left;
+	padding: 10px;
+}
+
+.contentLateral {
+	background-color: cyan;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+.content {
+	float: right;
+	width: 85%;
+}
+
+
+img {
+	width: 350px;
+	padding: 15px;
+	content:url("http://67.media.tumblr.com/c5f8ce2c7084e49017b2cfe1bbd612ad/tumblr_o8yz9oqCcv1st5lhmo1_1280.jpg");
+}
+#img1 {
+	float: left;
+}
+#img2 {
+	float: right;
+}
+
+
+
+

@@ -1,0 +1,90 @@
+body {
+	display: flex;
+	font-family: sans-serif;
+}
+
+header {
+	width: 90%;
+	margin: 0 auto;
+	background-color: #4DBCD0;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+
+header section {
+	height: 500px;
+}
+
+header  img {
+	width: 170px;
+	float: left;
+	margin: 0 0 0 100px;
+}
+
+.logIn {
+	text-align: right;
+}
+
+#lbLogIn {
+	color: #FFF;
+	margin.top: 15px;
+}
+header button {
+	width: 120px;
+	height: 50px;
+	color: #FFF;
+	border-color: black;
+	margin: 0 10px 0 40px;
+	background-color: #50514B;
+	border-radius: 10px;
+	float: left;
+}
+
+.navMenu {
+	border-radius: 10px;
+	height: 50px;
+	background-color: #D2EEF3;
+	float: left;
+	margin-left: 15px;
+	display: flex;
+	align-items: center;
+}
+
+header nav > ul {
+	margin: 0;
+	padding: 0;
+}
+
+header nav > ul > li {
+	display: inline-flex;
+	align-items: center;
+	/*margin-left: 15px;
+	margin-right: 15px;*/
+	border-right: 1px solid gray;
+	padding: 15px;
+	padding-bottom: 15px;
+	font-size: 0.8em;
+	font-weight: 400;
+}
+
+header nav > ul > li:last-child {
+	border: 0 transparent;
+}
+header nav > ul > li > a {
+	text-decoration: initial;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

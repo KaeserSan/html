@@ -1,0 +1,48 @@
+body {
+	background-color: #c2c2c2;
+}
+div {
+	border: 0px solid;
+	margin: 0px;
+	padding: 0px;
+}
+
+.header, .footer {
+	clear: both;
+	height: 125px;
+	background: #a1a1a1;
+	display: block;
+}
+
+.lat {
+	float: left;
+	height: 350px;	
+}
+#div0 {
+	width: 50%;
+	height: 610px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 15px 20px 20px 10px;
+}
+#div1 {
+	border-bottom: 10px solid #c2c2c2;
+}
+#div2 {
+	width: 25%;
+	background-color: black;
+}
+
+#div3 {
+	width: 75%;
+	background-color: #d6d6d6;
+}
+
+#div4 {
+
+}
+
+
+
+
+
